@@ -1,7 +1,7 @@
 # dio-desafio-github
 Este repositório se trata de um desafio de criação do primeiro repositório no Github
 
-##Primeiro Repositório
+## Primeiro Repositório
 
 - Criação do primeiro repositório para praticar o uso do Github e Git
 - 🤞
